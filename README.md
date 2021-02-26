@@ -1,5 +1,5 @@
 ## World Progress - Case Study Analysis
-In this project, I explored data from gapminder.org, a website dedicated to providing fact-based view of the world and how it has changed. I recreated and extended on some of their most famous visualizations. Furthermore, I analyzed and manipulated large data sets to investigate the relationship over time between global populartion & poverty and child mortality vs fertility.
+In this project, I explored data from gapminder.org, a website dedicated to providing fact-based view of the world and how it has changed. I recreated and extended on some of their most famous visualizations. Furthermore, I analyzed and manipulated large data sets to investigate the relationship over time between global population & poverty and child mortality vs fertility.
 
 **Languages:** Python
 
